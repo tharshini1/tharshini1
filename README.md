@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharshini R</h1>
 
 <h3 align="center">
-AI & Machine Learning Student | Full Stack Developer | Cloud Enthusiast
+AI & Machine Learning Student | Cloud Computing | Deep Learning
 </h3>
 
 <p align="center">
@@ -84,9 +84,21 @@ Guest House Booking Website with Admin Dashboard and Online Reservation System.
 
 ## 🤝 Connect With Me
 
-Coming Soon...
+## 🤝 Connect With Me
 
----
+<p align="left">
+<a href="https://www.linkedin.com/in/tharshini-r/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tharshiniapr26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+📧 **Email:** tharshiniapr26@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/tharshini-r/
 
 ![](https://komarev.com/ghpvc/?username=tharshini1&color=blue)
 
